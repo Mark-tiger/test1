@@ -133,7 +133,6 @@ ul {
     background-repeat: no-repeat;
     overflow: hidden;
     position: absolute;
-    z-index: -1;
 }
 
 .top-menu {
